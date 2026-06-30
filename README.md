@@ -79,4 +79,6 @@ Mubashir Rashid
 Computer Science Student  
 Passionate about Software Development, Problem Solving, and Building Real-World Projects.
 
-# ⭐ Tagline"Turning logic into real-world shopping experience through code." 
+## Tagline
+
+"Turning logic into real-world shopping experience through code." 
